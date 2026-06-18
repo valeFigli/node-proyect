@@ -1,0 +1,7 @@
+{
+    "name": "ejemplos-node",
+    "version": "0.0.1",
+    "main": "index.js",
+    "author": "Valeria Figliolo",
+    "type": "module"
+}
